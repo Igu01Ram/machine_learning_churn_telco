@@ -114,15 +114,16 @@ projeto_p2/
    streamlit run app.py
    ```
 3. Em caso de erro utilize os seguintes comandos:
-  ```bash
-      pip install --upgrade streamlit (Para que o streamlit esteja sempre na ultima versão)
+   ```bash
+   pip install --upgrade streamlit
     ```
-      ```bash
-    python -m pip install imbalanced-learn(aqui é pra baixar a biblioteca imbalanced)
+    
+   ```bash
+   python -m pip install imbalanced-learn
     ```
    ```bash
-    python -m streamlit run app.py (para rodar o projeto)
-    ```
+    python -m streamlit run app.py
+   ```
 3. O aplicativo estará disponível localmente, e abrirá automaticamente no seu navegador padrão pelo endereço `http://localhost:8501`.
 
 ## Link do App Publicado
